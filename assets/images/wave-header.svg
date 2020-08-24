@@ -6,10 +6,10 @@
     <defs>
         <radialGradient cx="116.70788%" cy="110.133192%" fx="116.70788%" fy="110.133192%" r="147.799618%" gradientTransform="translate(1.167079,1.101332),scale(0.096080,1.000000),rotate(-174.580171),translate(-1.167079,-1.101332)" id="radialGradient-1">
             <stop stop-color="#24B636" offset="0%"></stop>
-            <stop stop-color="#0086ff" offset="2.91250472%"></stop>
-            <stop stop-color="#0086ff" offset="4.5053357%"></stop>
-            <stop stop-color="#0086ff" offset="6.00516035%"></stop>
-            <stop stop-color="#0086ff" offset="25.4821693%"></stop>
+            <stop stop-color="#24B636" offset="2.91250472%"></stop>
+            <stop stop-color="#24B636" offset="4.5053357%"></stop>
+            <stop stop-color="#24B636" offset="6.00516035%"></stop>
+            <stop stop-color="#24B636" offset="25.4821693%"></stop>
             <stop stop-color="#24B636" offset="10%"></stop>
         </radialGradient>
     </defs>

@@ -25,8 +25,7 @@ async function main() {
     postImage.id="meme";
     postImage.src=post.data.url;
     postDiv.appendChild(postImage);
-    document.getElementById("meme2").appendChild(postDiv);  //ca fait apparaitre la tout a la fin du body
-    
+    document.getElementById("meme2").appendChild(postDiv);  //ca fait apparaitre au moment ou il y a une balise div avec un id meme2x   
     
 
 }
