@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: peeco.netlify.app
+Token: 98cfbbe330391382a9af66881b0e3ebe64f2d82047a241a0b8cffca96ec353ee
