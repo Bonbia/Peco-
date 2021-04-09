@@ -141,6 +141,10 @@ code {
   font: inherit;
 }
 */
+.template-example .template-title-example {
+  font-weight: 400;
+  color: #34495e;
+}
 
 .pointer {
   cursor: pointer;
